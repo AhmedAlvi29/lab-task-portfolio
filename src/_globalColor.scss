@@ -35,7 +35,7 @@ $lightBackground3: #b2dfdb;      // Soft teal
 $blogCardContainerColor: #004d40; // Dark teal for cards
 
 // Dark background colors
-$darkBackground: #00251a;         // Very dark teal
+$darkBackground: var(--bgcolor, #00251a);         // Very dark teal
 
 // Light theme box shadows
 $lightBoxShadowDark: rgba(0, 77, 64, 0.25);
