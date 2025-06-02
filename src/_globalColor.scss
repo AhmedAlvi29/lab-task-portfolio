@@ -1,0 +1,89 @@
+/* Global Theme Colors - Modern Deep Teal & Coral Accent */
+
+// Button colors
+$buttonColor: #00796b;           // Teal shade
+$buttonHover: #00bfa5;           // Bright teal accent
+$topButtonHover: #004d40;        // Darker teal for top buttons
+
+// Text colors light theme
+$titleColor: #004d40;            // Dark teal for titles
+$textColor: #263238;             // Charcoal dark text
+$subTitle: #546e7a;              // Slate gray subtitles
+$cardSubtitle: #455a64;          // Medium slate gray
+$talkCardSubTitle: #607d8b;      // Steel blue
+$blogCardTitleColor: #37474f;    // Deep blue-gray
+
+// Text color dark theme
+$textColorDark: #e0f2f1;         // Pale teal
+
+// Toggle switch colors
+$toggleCheck: #00bfa5;           // Bright teal accent
+$toggleSwitchSliderBG: #455a64; // Slate gray
+
+// githubRepo specific colors
+$githubRepoCardLanguageColorBG: #00796b;
+$githubRepoCardColor: #37474f;
+$githubRepoCardRepoCardStatsColor: #546e7a;
+$githubRepoCardRepoNameColor: #004d40;
+$githubProfileCardLocationTS: #80cbc4; // Soft teal highlight
+$githubProfileCardBorder: #00bfa5;
+
+// Light background colors
+$lightBackground1: #e0f2f1;      // Pale teal
+$lightBackground2: #ffffff;      // White
+$lightBackground3: #b2dfdb;      // Soft teal
+$blogCardContainerColor: #004d40; // Dark teal for cards
+
+// Dark background colors
+$darkBackground: #00251a;         // Very dark teal
+
+// Light theme box shadows
+$lightBoxShadowDark: rgba(0, 77, 64, 0.25);
+$lightBoxShadow: rgba(0, 77, 64, 0.15);
+$lightBoxShadowDarker: rgba(0, 77, 64, 0.35);
+
+// Dark theme box shadows
+$darkBoxShadow: #004d40;
+$darkBoxShadow2: #80cbc4;
+
+// Linear gradients
+$experienceCardBlurredDivLG: linear-gradient(
+  rgba(0, 77, 64, 0.6),
+  rgba(0, 77, 64, 0.3)
+);
+$experienceCardBannerLG: linear-gradient(
+  rgba(0, 47, 38, 0.85),
+  rgba(0, 77, 64, 0.6)
+);
+
+// Borders
+$progressBarBackground: #b2dfdb;
+$lightBorder1: rgba(0, 77, 64, 0.3);
+$educationCardBorder: #00bfa5;
+
+// Hovers
+$achievementCertificateCardHoverDark: rgba(0, 191, 165, 0.3);
+$blogCardHoverSmallColor: rgba(0, 191, 165, 0.9);
+$headerHoverBG: #e0f7f5;
+$contactDetailHoverTS: #80cbc4;
+
+// Misc backgrounds
+$progressBarSpanBG: #00bfa5;
+$iconBackground: #004d40;
+$appHeaderBG: #004d40;
+
+// Misc colors
+$skillsColor: #00bfa5;
+$appLink: #ff6f61;               // Coral accent link color
+
+// Social media icons - matching coral & teal palette
+$faceBook: #0078a8;
+$linkedin: #0077b5;
+$github: #004d40;
+$gitlab: #fc6d26;
+$google: #db4437;
+$twitter: #1da1f2;
+$medium: #37474f;
+$stackoverflow: #f48024;
+$instagram: #d6336c;
+$kaggle: #00acc1;
